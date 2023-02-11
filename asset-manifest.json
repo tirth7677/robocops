@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robocops/static/css/main.ac993563.css",
+    "main.js": "/robocops/static/js/main.c7b9f195.js",
+    "static/js/787.db9002e7.chunk.js": "/robocops/static/js/787.db9002e7.chunk.js",
+    "index.html": "/robocops/index.html",
+    "main.ac993563.css.map": "/robocops/static/css/main.ac993563.css.map",
+    "main.c7b9f195.js.map": "/robocops/static/js/main.c7b9f195.js.map",
+    "787.db9002e7.chunk.js.map": "/robocops/static/js/787.db9002e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac993563.css",
+    "static/js/main.c7b9f195.js"
+  ]
+}
